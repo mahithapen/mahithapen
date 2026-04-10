@@ -1,4 +1,3 @@
-# mahithapen
 # Hi there, I'm Mahitha! 👋
 
 I am a **Computer Science Graduate Student at Cornell University** (expected May 2026) with a passion for building intelligent systems and scalable software. My work focuses on **Natural Language Processing**, **Distributed Systems**, and **Machine Learning**.
